@@ -1,7 +1,10 @@
-// Daniel Shiffman
+// The logic used in this code is based on a Daniel Shiffman video (his youtube channel is awesome)  
+// This is the header he used in the code provided in the class:
 // http://codingtra.in
 // http://patreon.com/codingtrain
 // Video: https://youtu.be/RTc6i-7N3ms
+//////////////////////////////////////////////////////////////////////////////////////
+
 import processing.serial.*; //import the Serial library
 Serial myPort;  //the Serial port object
 String val;
