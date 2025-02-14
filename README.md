@@ -10,4 +10,5 @@ At startup, the program automatically searches for an Arduino-connected COM port
 - Base rotation: Pressing the 'G' key rotates the arm’s base towards the mouse pointer, allowing intuitive angle control.
 - Gripper control: The 'O' and 'C' keys open and close the end effector, with the program calculating the correct angles automatically.
 - USB Communication: All calculated angles are transmitted via USB to the Arduino, ensuring precise movement execution.
-- This interface was originally designed to work with the Arduino software in this repository but can be adapted for other applications.
+
+This interface was originally designed to work with the Arduino software in this repository but can be adapted for other applications.
